@@ -6,7 +6,7 @@
 
 
 ### Following
-Oak National Academy - https://github.com/oaknational
-Agent Engineering - https://github.com/AgentEngineer-ing
+- Oak National Academy - https://github.com/oaknational
+- Agent Engineering - https://github.com/AgentEngineer-ing
 
 
